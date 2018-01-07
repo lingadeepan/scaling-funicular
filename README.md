@@ -1,2 +1,0 @@
-# scaling-funicular
-learning test
